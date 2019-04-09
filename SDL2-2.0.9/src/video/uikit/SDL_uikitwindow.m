@@ -35,7 +35,6 @@
 #include "SDL_uikitevents.h"
 #include "SDL_uikitmodes.h"
 #include "SDL_uikitwindow.h"
-#import "SDL_uikitappdelegate.h"
 
 #import "SDL_uikitview.h"
 #import "SDL_uikitopenglview.h"

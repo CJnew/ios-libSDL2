@@ -29,7 +29,6 @@
 #include "../../events/SDL_touch_c.h"
 #include "../../events/SDL_events_c.h"
 
-#import "SDL_uikitappdelegate.h"
 #import "SDL_uikitmodes.h"
 #import "SDL_uikitwindow.h"
 
